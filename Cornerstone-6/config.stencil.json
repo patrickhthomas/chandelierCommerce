@@ -1,0 +1,15 @@
+{
+  "customLayouts": {
+    "brand": {},
+      "category": {
+        "react-demo.html": "/huh/"
+      },
+    "page": {
+      "custom-test.html":"/custom-test/"
+    },
+    "product": {}
+  },
+  "apiHost": "https://api.bigcommerce.com",
+  "normalStoreUrl": "https://chandelier-bakery.mybigcommerce.com",
+  "port": "3000"
+}
